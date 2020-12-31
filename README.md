@@ -1,3 +1,5 @@
+The project has been deployed here:- https://weather-app-66700.web.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
